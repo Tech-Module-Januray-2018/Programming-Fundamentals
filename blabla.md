@@ -1,5 +1,4 @@
-### Problem 1.                      
-Rectangle Area
+### Problem 1.  Rectangle Area                    
 
 ### 
 
