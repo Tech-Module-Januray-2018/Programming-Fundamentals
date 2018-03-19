@@ -3,17 +3,17 @@
 Programming Fundamentals Repository
 
 
-Debit Card Number
------------------
+-   **Debit Card Number**
 
 Write a program, which receives **4** **integers** on the console and
 **prints them** in **4-digit debit card format**. See the examples below
 for the appropriate formatting.
 
-### Examples
+**Examples**
 
-| **Input** | **Output**          |
+|           |                     |
 |-----------|---------------------|
+| **Input** | **Output**          |
 | 12        
             
  433        
@@ -35,6 +35,9 @@ for the appropriate formatting.
  123        
             
  22         | 0812 0321 0123 0022 |
+
+
+
 
 ### Problem 1.   
 Rectangle Area
