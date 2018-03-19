@@ -14,8 +14,9 @@ nd character after the decimal point**.
 | Input | Output |
 | ------|:------:|
 | 2     | 14.00  |
-| 7     |        |
+| 7              |
 | 7     | 56.00  |
-| 8     |        |
+  8              |
 | 12.33 | 61.65  |
-| 5     |        |
+| 5              |
+
