@@ -38,7 +38,7 @@ for the appropriate formatting.
 
 
 
-### Problem 1.  Rectangle Area                    
+### Problem 2.  Rectangle Area                    
 
 ### 
 
