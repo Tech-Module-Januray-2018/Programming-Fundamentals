@@ -38,9 +38,9 @@ for the appropriate formatting.
 
 
 
+### Problem 1.  Rectangle Area                    
 
-### Problem 1.   
-Rectangle Area
+### 
 
 Write a program, which calculates a **rectangle’s area**, based on its **width**
 and **height**. The **width** and **height** come as
@@ -51,40 +51,11 @@ nd character after the decimal point**.
 
 #### Examples
 
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-2
-
-7
-
- 
-
-14.00
-
- 
-
-7
-
-8
-
- 
-
-56.00
-
- 
-
-12.33
-
-5
-
- 
-
-61.65
+| Input | Output |
+| ------|:------:|
+| 2     | 14.00  |
+| 7              |
+| 7     | 56.00  |
+  8              |
+| 12.33 | 61.65  |
+| 5              |
