@@ -7,11 +7,11 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
 			// Getting the input from the console
-           var a = double.Parse(Console.ReadLine());
-           var b = double.Parse(Console.ReadLine());
+           var width = double.Parse(Console.ReadLine());
+           var height = double.Parse(Console.ReadLine());
 
 		   // Doing calculations
-           var S = a * b;
+           var area = width * height;
 
 		   // Printing the result
             Console.WriteLine($"{S:f2}");
