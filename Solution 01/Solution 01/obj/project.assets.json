@@ -16,11 +16,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\hw\\Programming-Fundamentals\\Solution 01\\Solution 01\\Solution 01.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\hw\\TeamWork\\Programming-Fundamentals\\Solution 01\\Solution 01\\Solution 01.csproj",
       "projectName": "Solution 01",
-      "projectPath": "C:\\Users\\User\\Desktop\\hw\\Programming-Fundamentals\\Solution 01\\Solution 01\\Solution 01.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\hw\\TeamWork\\Programming-Fundamentals\\Solution 01\\Solution 01\\Solution 01.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\hw\\Programming-Fundamentals\\Solution 01\\Solution 01\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\hw\\TeamWork\\Programming-Fundamentals\\Solution 01\\Solution 01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
